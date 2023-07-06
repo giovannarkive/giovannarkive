@@ -1,6 +1,6 @@
 ##  Hey there, I'm Giovanna!
   
-Data Engineering | Data Analysis | Azure OpenAI | OneLake
+  🌱 Data Engineering | Data Analysis | Azure OpenAI | OneLake
 
 <div>
   <a href="[https://github.com/giovannarkive]">
