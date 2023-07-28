@@ -1,6 +1,6 @@
 ##  Hey there, I'm Giovanna!
   
-  🌱 Data Engineering | Data Analysis | Azure OpenAI | OneLake
+  🌱 Data Engineering | Azure Data Factory | Azure Data Lake
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></a>
