@@ -1,6 +1,6 @@
 ##  Hey there, I'm Giovanna!
   
-Data Engineer | Microsoft Azure| Databricks 
+Data Engineer | Microsoft Azure | Databricks 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></a>
